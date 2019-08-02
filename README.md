@@ -1,4 +1,4 @@
-This is directory is dedicated only to Hyperledger Fabric and related guideline.
+#This is directory is dedicated only to Hyperledger Fabric and related guideline.
 
 npm install -g composer-cli issue with windows
 Try to execute belows commands
