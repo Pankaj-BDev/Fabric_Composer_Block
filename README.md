@@ -1,2 +1,1 @@
-#MyApp
-This is my app
+This is directory is dedicated only to Hyperledger Fabric and related guideline.
